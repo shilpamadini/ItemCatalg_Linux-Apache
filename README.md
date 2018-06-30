@@ -6,7 +6,7 @@ This folder contains the necessary details about how Item-Catalog website is dep
 
 1. IP address of the Linux instance 54.214.194.122
 2. SSH port 2200
-3. Application Url http://54.214.194.122.xip.io:80/
+3. Application Url http://54.214.194.122.xip.io/
 4. Update all currently installed packages
     * ```sudo apt-get update```
     * ```sudo apt-get upgrade```
